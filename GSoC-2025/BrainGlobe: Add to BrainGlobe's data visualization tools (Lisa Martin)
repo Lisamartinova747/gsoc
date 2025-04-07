@@ -1,20 +1,19 @@
 Tittle
 
+Improving BrainGlobe's data visualization tools 
+
 Personal details
 
-Please include the following information:
+Lisa Maria Martin
 
-Full name (include preferred name if desired)
+lisamartinova747@gmail.com
 
-Email
+Git Hub: LisaMartinova747
 
-GitHub username
+896971
 
-Zulip username
+Zurich, Switzerland ‎(UTC+2)‎
 
-Location & time-zone
-
-Personal website / project portfolio (optional)
 
 Code contribution
 
@@ -23,6 +22,7 @@ Please link a pull request, ideally submitted to your chosen project or one of t
 Proposal discussion link
 
 Please link to the pull request where you discussed your project proposal with the community.
+
 
 Project proposal
 
@@ -46,9 +46,12 @@ When estimating the required time for a task, keep in mind deliverables should i
 The default schedule for GSoC is 12 weeks - see the GSoC timeline for precise dates.
 Also please specify any prep work you plan to do during the "Community bonding period".
 Usually week 1's deliverables already include some code. Week 6 marks the mid-term point, where usually more than half of the project should be completed. At the end of week 11 you may want to try to "freeze" the code and complete any remaining tests or documentation in weeks 11 and 12.
+
+
 Communication plan
 
 Please explain: how do you plan to communicate with your mentor? How often? (e.g., daily or weekly stand-ups, longer meetings..?) What communication channels will you use? (e.g., video calls, Zulip chat...?)
+
 
 Personal statement
 
